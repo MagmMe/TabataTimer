@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
-//        LanuchScreen for 3 seconds Magme
+        //LanuchScreen for 3 seconds Magme
         
         Thread.sleep(forTimeInterval: 3.0)
         // Override point for customization after application launch.
